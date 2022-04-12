@@ -1,0 +1,4 @@
+[submodule "themes/paperMod"]
+	path = themes/paperMod
+	url = https://github.com/ycy1992911/hugo-PaperMod.git
+	branch = master
