@@ -5,6 +5,8 @@ theme: 'paperMod'
 
 #theme tutorial: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
 params:
+    env: production
+
     #theme
     defaultTheme: auto
 
@@ -48,6 +50,19 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+
+#menu
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
 
 #search related
 outputs:
