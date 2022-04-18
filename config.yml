@@ -1,7 +1,7 @@
 baseURL: 'http://mikeyan.xyz/'
 languageCode: 'en-us'
 title: "Mike's Digital Garden"
-theme: 'paperMod'
+theme: 'PaperMod'
 
 #theme tutorial: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
 params:
