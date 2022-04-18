@@ -15,4 +15,3 @@ There are many different ways to build a blog of your own, but they all fall int
 
 
 
-![image-20220417203006273](../../static/images/image-20220417203006273.png)

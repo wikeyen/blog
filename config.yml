@@ -18,6 +18,10 @@ params:
     socialIcons:
             - name: "github"
               url: "https://github.com/ycy1992911"
+            - name: "rss"
+              url: "https://mikeyan.xyz/index.xml"
+            - name: "search"
+              url: "https://mikeyan.xyz/search.html"
 
     #posts related on the home page
     ShowReadingTime: true
