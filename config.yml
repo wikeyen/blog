@@ -20,8 +20,6 @@ params:
               url: "https://github.com/ycy1992911"
             - name: "rss"
               url: "https://mikeyan.xyz/index.xml"
-            - name: "search"
-              url: "https://mikeyan.xyz/search.html"
 
     #posts related on the home page
     ShowReadingTime: true
@@ -67,6 +65,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
 
 #search related
 outputs:
