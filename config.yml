@@ -10,6 +10,9 @@ params:
     #theme
     defaultTheme: auto
 
+    #share
+    ShowShareButtons: true
+
     #profile
     homeInfoParams:
         Title: Hi there 👋
@@ -24,6 +27,8 @@ params:
     #posts related on the home page
     ShowReadingTime: true
     ShowBreadCrumbs: true
+    ShowPostNavLinks: true
+
     # ShowToc: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
@@ -61,13 +66,13 @@ menu:
       name: Categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
     - identifier: search
       name: Search
       url: /search/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
 
 #search related
@@ -76,3 +81,5 @@ outputs:
         - HTML
         - RSS
         - JSON
+
+Copyright: "Copyright "
