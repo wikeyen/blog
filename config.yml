@@ -29,7 +29,7 @@ params:
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
 
-    # ShowToc: true
+    ShowToc: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
 
