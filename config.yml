@@ -16,8 +16,8 @@ params:
     #profile
     homeInfoParams:
         Title: Hi there 👋
-        Content: "Tech lead with a product mindset. Astrophotographer. Traveller ✈️ Book Lover 📖 Obsessed with stars ✨ 
-                Lives in 🇨🇳 🇬🇧 🇺🇸"
+        Content: "I'm a tech lead with a product mindset, astrophotographer, traveller ✈️ book Lover 📖 obsessed with stars ✨ 
+                Live in 🇨🇳 🇬🇧 🇺🇸"
     socialIcons:
             - name: "github"
               url: "https://github.com/ycy1992911"
