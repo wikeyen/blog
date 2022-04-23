@@ -5,8 +5,6 @@ theme: 'PaperMod'
 
 #theme tutorial: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
 params:
-    env: production
-
     #theme
     defaultTheme: auto
 
@@ -32,6 +30,7 @@ params:
     ShowToc: true
     ShowPostNavLinks: true
     ShowCodeCopyButtons: true
+
 
     #giscus
     giscus:
