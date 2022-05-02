@@ -4,7 +4,7 @@ categories:
  - software-engineering
 tags:
  - mysql
- - mandarin
+ - tech
 date: 2022-04-23T11:11:31+08:00
 author: Mike. Y
 draft: false
