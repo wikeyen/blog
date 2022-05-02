@@ -61,14 +61,18 @@ params:
 #menu
 menu:
   main:
+    # - identifier: astrophotography
+    #   name: Astrophotography
+    #   url: /categories/astrophotography/
+    #   weight: 5
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
