@@ -1,5 +1,5 @@
 ---
-title: "Horsehead Nebula 20220114"
+title: "深空摄影：Horsehead Nebula 马头星云"
 categories:
  - astrophotography
 tags:
@@ -8,7 +8,7 @@ tags:
  - zwo
  - horsehead
  - IC434
-date: 2022-05-02T09:10:31+08:00
+date: 2022-01-14T09:10:31+08:00
 author: Mike. Y
 ---
 
@@ -37,17 +37,18 @@ This one was taken during my trip to Yunnan. Due to the limited access to an ope
 ---
 
 SPECS:
+- Location: Lijiang, Yunnan, China
+- Bortle Scale: 3
+- Ha: 20 * 300
+- Software: Lightroom iOS 
 
-Location: Lijiang, Yunnan, ChinaBortle Scale: 3
-Ha: 20 * 300
-Software: Lightroom iOS 
 
 DEVICES:
-Telescope: WO Redcat51
-Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
-Main Camera: ZWO 294MMP
-Guiding Camera: ZWO 290mini
-Focuser: ZWO EAF
-Computer: ZWO ASIAIR Plus
-Mount: RST-135
-Tripod: RT90C
+- Telescope: WO Redcat51
+- Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
+- Main Camera: ZWO 294MMP
+- Guiding Camera: ZWO 290mini
+- Focuser: ZWO EAF
+- Computer: ZWO ASIAIR Plus
+- Mount: RST-135
+- Tripod: RT90C

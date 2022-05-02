@@ -1,5 +1,5 @@
 ---
-title: "Andromeda Galaxy 20211006"
+title: "深空摄影：Andromeda Galaxy 仙女座星系"
 categories:
  - astrophotography
 tags:
@@ -8,15 +8,16 @@ tags:
  - zwo
  - andromeda
  - m31
-date: 2021-05-02T09:10:31+08:00
+date: 2021-10-06T09:10:31+08:00
 author: Mike. Y
 ---
 
 ![M31](../../../static/images/M31.jpg)
 
----
 
-[The Andromeda Galaxy](https://en.wikipedia.org/wiki/Andromeda_Galaxy) (IPA: /ænˈdrɒmɪdə/), also known as Messier 31, M31, or NGC 224 and originally the Andromeda Nebula (see below), is a barred spiral galaxy with diameter of about 220,000 ly approximately 2.5 million light-years (770 kiloparsecs) from Earth and the nearest large galaxy to the Milky Way. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the Ethiopian (or Phoenician) princess who was the wife of Perseus in Greek mythology.
+
+
+[The Andromeda Galaxy](https://en.wikipedia.org/wiki/Andromeda_Galaxy)  (IPA: /ænˈdrɒmɪdə/), also known as Messier 31, M31, or NGC 224 and originally the Andromeda Nebula (see below), is a barred spiral galaxy with diameter of about 220,000 ly approximately 2.5 million light-years (770 kiloparsecs) from Earth and the nearest large galaxy to the Milky Way. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the Ethiopian (or Phoenician) princess who was the wife of Perseus in Greek mythology.
 
 The virial mass of the Andromeda Galaxy is of the same order of magnitude as that of the Milky Way, at 1 trillion solar masses (2.0×1042 kilograms). The mass of either galaxy is difficult to estimate with any accuracy, but it was long thought that the Andromeda Galaxy is more massive than the Milky Way by a margin of some 25% to 50%. This has been called into question by a 2018 study that cited a lower estimate on the mass of the Andromeda Galaxy, combined with preliminary reports on a 2019 study estimating a higher mass of the Milky Way. The Andromeda Galaxy has a diameter of about 220,000 ly (67 kpc), making it the largest member of the Local Group in terms of extension.
 
@@ -28,21 +29,23 @@ The Milky Way and Andromeda galaxies are expected to collide in around 4-5 billi
 
 ---
 
-SPECS:
 
-Location: Beijing
-L: 100 * 30
-R: 200 * 50
-G: 200 * 50
-B: 200 * 50
-Software: PixInsight, DeNoise AI
+SPECS:
+- Location: Beijing
+- Bortle Scale: 6
+- L: 100 * 30
+- R: 200 * 50
+- G: 200 * 50
+- B: 200 * 50
+- Software: PixInsight, DeNoise AI
+
 
 DEVICES:
-Telescope: WO Redcat51
-Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
-Main Camera: ZWO 294MMP
-Guiding Camera: ZWO 290mini
-Focuser: ZWO EAF
-Computer: ZWO ASIAIR Plus
-Mount: RST-135
-Tripod: RT90C
+- Telescope: WO Redcat51
+- Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
+- Main Camera: ZWO 294MMP
+- Guiding Camera: ZWO 290mini
+- Focuser: ZWO EAF
+- Computer: ZWO ASIAIR Plus
+- Mount: RST-135
+- Tripod: RT90C

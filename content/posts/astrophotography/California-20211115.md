@@ -1,5 +1,5 @@
 ---
-title: "California Nebula 20211115"
+title: "深空摄影：California Nebula 加州星云"
 categories:
  - astrophotography
 tags:
@@ -8,7 +8,7 @@ tags:
  - zwo
  - california
  - NGC1499
-date: 2021-05-02T09:10:31+08:00
+date: 2021-11-15T09:10:31+08:00
 author: Mike. Y
 ---
 
@@ -29,19 +29,20 @@ NGC 1499俗称加利福尼亚星云或加州星云（California Nebula），是�
 ---
 
 SPECS:
+- Location: Beijing
+- Bortle Scale: 6
+- Ha: 40 * 300
+- Sii: 60 * 300
+- Oiii: 60 * 300
+- Software: PixInsight, DeNoise AI
 
-Location: Beijing
-Ha: 40 * 300
-Sii: 60 * 300
-Oiii: 60 * 300
-Software: PixInsight, DeNoise AI
 
 DEVICES:
-Telescope: WO Redcat51
-Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
-Main Camera: ZWO 294MMP
-Guiding Camera: ZWO 290mini
-Focuser: ZWO EAF
-Computer: ZWO ASIAIR Plus
-Mount: RST-135
-Tripod: RT90C
+- Telescope: WO Redcat51
+- Filter Wheel: ZWO 7*36mm EFW Filters: LRGB, Ha 7nm, SII 6.5nm, OIII 6.5nm
+- Main Camera: ZWO 294MMP
+- Guiding Camera: ZWO 290mini
+- Focuser: ZWO EAF
+- Computer: ZWO ASIAIR Plus
+- Mount: RST-135
+- Tripod: RT90C
