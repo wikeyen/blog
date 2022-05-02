@@ -16,7 +16,7 @@ author: Mike. Y
 
 
 
-[The California Nebula](https://en.wikipedia.org/wiki/California_Nebula) (NGC 1499/Sh2-220) is an emission nebula located in the constellation Perseus. Its name comes from its resemblance to the outline of the US State of California in long exposure photographs. It is almost 2.5° long on the sky and, because of its very low surface brightness, it is extremely difficult to observe visually. It can be observed with a Hα filter (isolates the Hα line at 656 nm) or Hβ filter (isolates the Hβ line at 486 nm) in a rich-field telescope under dark skies. It lies at a distance of about 1,000 light years from Earth. Its fluorescence is due to excitation of the Hβ line in the nebula by the nearby prodigiously energetic O7 star, Xi Persei (also known as Menkib, seen at center below it in the inset at right).
+[The California Nebula](https://en.wikipedia.org/wiki/California_Nebula) (NGC 1499/Sh2-220) is an emission nebula located in the constellation Perseus. Its name comes from its resemblance to the outline of the US State of California in long exposure photographs. It is almost 2.5° long in the sky and, because of its very low surface brightness, it is extremely difficult to observe visually. It can be observed with a Hα filter (isolates the Hα line at 656 nm) or a Hβ filter (isolates the Hβ line at 486 nm) in a rich-field telescope under dark skies. It lies at a distance of about 1,000 light-years from Earth. Its fluorescence is due to excitation of the Hβ line in the nebula by the nearby prodigiously energetic O7 star, Xi Persei (also known as Menkib, seen at the centre below it in the inset at right).
 
 The California Nebula was discovered by E. E. Barnard in 1884.
 

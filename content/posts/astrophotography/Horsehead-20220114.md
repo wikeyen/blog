@@ -16,7 +16,7 @@ author: Mike. Y
 
 
 
-The Horsehead Nebula (also known as Barnard 33) is a small dark nebula in the constellation Orion. The nebula is located just to the south of Alnitak, the easternmost star of Orion's Belt, and is part of the much larger Orion Molecular Cloud Complex. It appears within the southern region of the dense dust cloud known as Lynds 1630, along the edge of the much larger, active star-forming H II region called IC 434.
+[The Horsehead Nebula](https://en.wikipedia.org/wiki/Horsehead_Nebula) (also known as Barnard 33) is a small dark nebula in the constellation Orion. The nebula is located just to the south of Alnitak, the easternmost star of Orion's Belt, and is part of the much larger Orion Molecular Cloud Complex. It appears within the southern region of the dense dust cloud known as Lynds 1630, along the edge of the much larger, active star-forming H II region called IC 434.
 
 The Horsehead Nebula is approximately 422 parsecs or 1,375 light-years from Earth. It is one of the most identifiable nebulae because of its resemblance to a horse's head.
 
