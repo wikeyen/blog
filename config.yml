@@ -21,28 +21,28 @@ params:
     busuanzi: true
     busuanzi_site_offset: 300
 
-    #share
-    ShowShareButtons: true
-
     #profile
     homeInfoParams:
         Title: Hi there 👋
-        Content: "I'm a tech lead with a product mindset, astrophotographer, traveller ✈️ book lover 📖 obsessed with stars ✨ 
-                Live in 🇨🇳 🇬🇧 🇺🇸"
+        Content: I'm a tech lead with a product mindset, astrophotographer 🔭 traveller 🛫 book lover 📖 obsessed with stargazing ✨ 
+                Live in 🇨🇳 🇬🇧 🇺🇸
     socialIcons:
             - name: "github"
               url: "https://github.com/ycy1992911"
+            - name: "instagram"
+              url: "https://www.instagram.com/mikemeetsastro/"
             - name: "rss"
               url: "https://mikeyan.xyz/index.xml"
 
     #individual post related
     ShowPostPv: true
     ShowWordCount: false
+    ShowShareButtons: false
 
 
     #posts related on the home page
     ShowReadingTime: true
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: false
     ShowPostNavLinks: true
     ShowSitePv: true
     ShowSitePu: false
