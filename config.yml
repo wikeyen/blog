@@ -37,7 +37,7 @@ params:
 
     #individual post related
     ShowPostPv: true
-    ShowWordCount: true
+    ShowWordCount: false
 
 
     #posts related on the home page
