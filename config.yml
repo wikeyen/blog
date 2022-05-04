@@ -8,11 +8,18 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
+googleAnalytics: "G-7FDCVCS0CE"
+
+
 #theme tutorial: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
 params:
     env: production
     #theme
     defaultTheme: auto
+
+    #counter
+    busuanzi: true
+    busuanzi_site_offset: 100
 
     #share
     ShowShareButtons: true
