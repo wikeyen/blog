@@ -19,7 +19,7 @@ params:
 
     #counter
     busuanzi: true
-    busuanzi_site_offset: 100
+    busuanzi_site_offset: 300
 
     #share
     ShowShareButtons: true
