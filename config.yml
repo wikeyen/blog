@@ -3,6 +3,11 @@ languageCode: 'en-us'
 title: "Mike's Digital Garden"
 theme: 'PaperMod'
 
+sitemap:
+  changefreq: always
+  filename: sitemap.xml
+  priority: 0.5
+
 #theme tutorial: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#home-info-mode
 params:
     env: production
@@ -15,7 +20,7 @@ params:
     #profile
     homeInfoParams:
         Title: Hi there 👋
-        Content: "I'm a tech lead with a product mindset, astrophotographer, traveller ✈️ book Lover 📖 obsessed with stars ✨ 
+        Content: "I'm a tech lead with a product mindset, astrophotographer, traveller ✈️ book lover 📖 obsessed with stars ✨ 
                 Live in 🇨🇳 🇬🇧 🇺🇸"
     socialIcons:
             - name: "github"
