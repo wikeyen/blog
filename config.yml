@@ -35,10 +35,17 @@ params:
             - name: "rss"
               url: "https://mikeyan.xyz/index.xml"
 
+    #individual post related
+    ShowPostPv: true
+    ShowWordCount: true
+
+
     #posts related on the home page
     ShowReadingTime: true
     ShowBreadCrumbs: true
     ShowPostNavLinks: true
+    ShowSitePv: true
+    ShowSitePu: false
 
     ShowToc: true
     ShowPostNavLinks: true
@@ -79,22 +86,22 @@ assets:
 #menu
 menu:
   main:
-    # - identifier: astrophotography
-    #   name: Astrophotography
-    #   url: /categories/astrophotography/
-    #   weight: 5
+    - identifier: astro
+      name: Astrophotography
+      url: /categories/astrophotography/
+      weight: 5
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 20
+      weight: 10
     - identifier: search
       name: Search
       url: /search/
-      weight: 10
+      weight: 30
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 20
 
 #search related
 outputs:
