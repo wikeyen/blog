@@ -19,7 +19,7 @@ params:
 
     #counter
     busuanzi: true
-    busuanzi_site_offset: 300
+    busuanzi_site_offset: 0
 
     #profile
     homeInfoParams:
@@ -35,7 +35,7 @@ params:
               url: "https://mikeyan.xyz/index.xml"
 
     #individual post related
-    ShowPostPv: true
+    ShowPostPv: false
     ShowWordCount: false
     ShowShareButtons: false
 
