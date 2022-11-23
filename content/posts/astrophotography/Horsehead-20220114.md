@@ -28,7 +28,7 @@ The Horsehead Nebula is approximately 422 parsecs or 1,375 light-years from Eart
 
 ---
 
-This one was taken during my trip to Yunnan. Due to the limited access to an open and safe area to place my devices in the hotel and a very short period before the nebula went behind the houses in front of my room. Eventually, I managed to photograph in the hallway for the Ha channel. The fine details revealed by a photo with 5 minutes exposure time were mind-blowing; I didn't even need to calibrate with flat/dark/dark flat/bias frames; some very light processes were applied to make it colourful by the Lightroom app on my iPhone.
+This one was taken during my trip to Yunnan. Due to the limited access to an open and safe area to place my devices, and a very short period of time before the nebula went behind the houses in front of my room. Eventually, I managed to photograph in the hallway for the Ha channel. The fine details revealed by a photo with 5 minutes exposure time were mind-blowing; I didn't even need to calibrate the photo with any flat/dark/dark flat/bias frames. Only some light processes were applied to make it colourful by the Lightroom app on my iPhone.
 
 
 

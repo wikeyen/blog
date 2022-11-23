@@ -24,7 +24,7 @@ params:
     #profile
     homeInfoParams:
         Title: Hi there 👋
-        Content: I'm a tech lead with a product mindset, astrophotographer 🔭 traveller 🛫 book lover 📖 obsessed with stargazing ✨ 
+        Content: I'm a product manager, software engineer, astrophotographer 🔭 traveller 🛫 book lover 📖 obsessed with stargazing ✨ 
                 Live in 🇨🇳 🇬🇧 🇺🇸
     socialIcons:
             - name: "github"
